@@ -26,10 +26,10 @@ step 5:
 
 Wherever you want to be, just create an object from the class and call the Run method
 
-`
+```
 
 $n = new \App\TaskTable\Notify();
 
 print_r($n->Run());
 
-`
+```
