@@ -1,0 +1,20 @@
+{
+    "name": "iransoftnet1/multi-thread-database-processing",
+    "description": "is package just laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iransoftnet1",
+            "email": "iransoftnet.ir@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iransoftnet1\\MultiThreadDatabaseProcessing\\":"src/"
+
+        }
+    }
+}
